@@ -1,2 +1,4 @@
 Here is my new file
 it has some text
+
+i added a line
